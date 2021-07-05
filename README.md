@@ -14,4 +14,4 @@ Region - eu-west-2(London)
 10- For cost management we have Billing dashboard, AWS budgets , Cost and Usage reports etc.
 11- Amazon Athena – analysing the logs
 
-![alt text](https://github.com/ss1307-uol/whiteboard/blob/master/ICC-CW3.jpg?raw=true)
+![alt text](https://github.com/ss1307-uol/whiteboard/blob/master/ICC-CW3.png?raw=true)
