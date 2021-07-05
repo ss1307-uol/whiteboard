@@ -1,8 +1,8 @@
-For the Distributed whitebaord system that can be shared between multiple users over the network and the Design consist of VPC(Virtual private cloud) where the  distributed whiteboard application is hosted .
+The Distributed whitebaord system that can be shared between multiple users over the network and the Design consist of VPC(Virtual private cloud) where the  distributed whiteboard application is hosted .
 Below is list of services used in private cloud system .
 Region - eu-west-2(London)
 
-1- VPC : ICCCW3_VPC
+1- VPC
 2- public subnet in VPC
 3- EC2 instance – launch in private subnet(t2.micro)
 4- Auto scaling group and Elastic load balancers
