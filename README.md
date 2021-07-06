@@ -11,7 +11,7 @@ Region - eu-west-2(London)
 7- Route tables and Internet gateway for internet connectivity
 8- Monitoring is ON for services (Cloud watch metrics)
 9- For whiteboard application layer we do not need Database layer
-10- For cost management we have Billing dashboard, AWS budgets , Cost and Usage reports etc.
-11- Amazon Athena – analysing the logs
+10-For cost management we have Billing dashboard, AWS budgets , Cost and Usage reports etc.
+11-Amazon Athena – analysing the logs
 
 ![alt text](https://github.com/ss1307-uol/whiteboard/blob/master/ICC-CW3.png?raw=true)
