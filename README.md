@@ -1,3 +1,7 @@
+# Distributed Cloud based whiteboard Application deployed on AWS Application Load Balancer with Auto Scaling, Amazon ECR and ECS, VPC's Components, cloutwatch and Athena.
+
+
+
 The Distributed whitebaord system that can be shared between multiple users over the network and the Design consist of VPC(Virtual private cloud) where the  distributed whiteboard application is hosted .
 Below is list of services used in private cloud system .
 Region - eu-west-2(London)
